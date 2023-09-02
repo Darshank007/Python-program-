@@ -44,7 +44,7 @@ print("Fibonacci series upto 1")
 print(a)
 
 else:
-[9/2, 12:19 PM] Saqib Collage: print("Fibonacci Sequence")
+ print("Fibonacci Sequence")
 
 while (count < n):
 
